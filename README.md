@@ -4,7 +4,7 @@ LeetCode task - Sqrt(x).
 ![image](https://github.com/user-attachments/assets/d4eece55-49d6-4910-a542-711d65f9d916)
 
 This task was solved by Newton's method implementation.
-![image](https://github.com/user-attachments/assets/6c8dceab-2b42-475e-86f4-db569070093d)
+![image](https://github.com/user-attachments/assets/7dd6cdb4-5a06-463c-af6d-74a543e477b5)
 
 Full method description:
 https://en.wikipedia.org/wiki/Newton%27s_method
