@@ -15,9 +15,7 @@ Next expression was taken as an initial approximation:
 
 Of which the number of bits required to represent an integer x is:
 
-![image](https://github.com/user-attachments/assets/0d7c49b2-00bc-4a53-b8cb-9f99fb4ef14d)
-
-
+![image](https://github.com/user-attachments/assets/501de02b-69fa-4366-8a3b-8b690c5d1816)
 
 The results:
 
