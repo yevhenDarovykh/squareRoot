@@ -4,6 +4,11 @@ using namespace std;
 class Solution {
 public:
     int mySqrt(int x) {
+		// handling exception when x=0
+		if (x==0) {
+			return x;
+		}
+
 		// number of bits to represent x
 		int b = log2(x) + 1;
 
