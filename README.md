@@ -1,9 +1,7 @@
 # Square root
 LeetCode task - Sqrt(x).
 
-![image](https://github.com/user-attachments/assets/89e9f102-cb14-4831-bf1e-0d4dd840d951)
-
-
+![image](https://github.com/user-attachments/assets/d4eece55-49d6-4910-a542-711d65f9d916)
 
 This task was solved by Newton's method implementation.
 ![image](https://github.com/user-attachments/assets/6c8dceab-2b42-475e-86f4-db569070093d)
