@@ -19,7 +19,7 @@ Of which the number of bits required to represent an integer x is:
 
 The results:
 
-![image](https://github.com/user-attachments/assets/5bd96ada-c31a-4e6f-86a9-3b5887cac443)
+![image](https://github.com/user-attachments/assets/f4aab8e4-1183-4f4f-a491-c629ff4d2306)
 
 Time complexity is O(log(x)).
 
