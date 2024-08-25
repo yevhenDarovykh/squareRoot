@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/Newton%27s_method
 
 Next expression was taken as an initial approximation:
 
-![image](https://github.com/user-attachments/assets/61c4ba51-599a-4a4d-a19e-83903b0ab894)
+![image](https://github.com/user-attachments/assets/578abd4e-f3fa-47f6-b52b-e11c2f539b24)
 
 Of which the number of bits required to represent an integer x is:
 
